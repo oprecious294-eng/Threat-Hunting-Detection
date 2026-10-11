@@ -7,6 +7,6 @@ The MITRE ATT&CK Navigator was used to create individual technique layers for ea
 This convergence has a direct operational implication: detection rules and hunting queries targeting the highest-overlap techniques will provide adversary-agnostic coverage effective against the majority of the identified threat landscape, regardless of which specific actor initiates an attack.
 The report concludes with prioritised detection engineering recommendations, proactive threat hunting use cases specific to the financial services sector, and a strategic intelligence assessment of the evolving threat landscape.
 </li> 
- </h3>Intelligence Objectives & Responsibility Alignment</h3>
- 
-</h3>This engagement was structured to provide direct evidence against three core threat intelligence responsibilities. The table below maps each responsibility to the specific activities and outputs produced in this report.</h3>
+</li> Intelligence Objectives & Responsibility Alignment</li> 
+
+</h3> This engagement was structured to provide direct evidence against three core threat intelligence responsibilities. The table below maps each responsibility to the specific activities and outputs produced in this report.</h3>
